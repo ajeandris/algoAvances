@@ -1,6 +1,4 @@
-# Algorithmes Avancées
+# Implémentation des Algorithmes Avancées
 
-en C 
-en C++
-Java
-Python
+en C, C++, Java et Python 
+
