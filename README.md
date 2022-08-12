@@ -1,6 +1,5 @@
 # Implémentation des Algorithmes Avancées
-
-## en C, C++, Java et Python 
+ en C, C++, Java et Python 
 
 ## Algorithmes de Recherche
 ## Algorithmes de TRI
